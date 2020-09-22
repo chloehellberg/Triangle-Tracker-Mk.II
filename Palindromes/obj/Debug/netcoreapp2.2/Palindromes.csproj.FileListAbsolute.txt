@@ -1,0 +1,11 @@
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.csprojAssemblyReference.cache
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.AssemblyInfoInputs.cache
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.AssemblyInfo.cs
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.deps.json
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.runtimeconfig.json
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.runtimeconfig.dev.json
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.pdb
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\Gman9\Epicodus\C#\Palindrome\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.pdb
